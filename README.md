@@ -1,6 +1,6 @@
 # To-Do List App
 
-A simple and intuitive To-Do List application built with [insert technology/framework, e.g., Scala, React, etc.]. This app helps you manage your tasks efficiently, allowing you to add, complete, and delete tasks with ease.
+A simple and intuitive To-Do List application built with [Scala]. This app helps you manage your tasks efficiently, allowing you to add, complete, and delete tasks with ease.
 
 ## Features
 
